@@ -1,0 +1,27 @@
+{
+  "name": "Seed #4",
+  "description": "grrgrg.",
+  "image": "https://media.discordapp.net/attachments/1062910759107051520/1227032096074236014/imresizer-1712616352588.jpg?ex=6641f470&is=6640a2f0&hm=4b986ebd33b469f0a6c2d674122911a9ae0c199d53adbdd539ca5724f9a48e93&=&format=webp",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "WOOD"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "BIG TOP HAT"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seed"
+    }
+  ]
+}
