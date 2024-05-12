@@ -1,0 +1,27 @@
+{
+  "name": "Seed #5",
+  "description": "Just a regular seed.",
+  "image": "https://media.discordapp.net/attachments/935570532848521266/1238755036494954496/fdb9a3a906cff11917e872f4b3a0a5c.jpg?ex=66426a47&is=664118c7&hm=edf5500191ee9eb1c79ed93e35fd9e939812e9d9fdbbfaacd3c8a4634f2545f7&=&format=webp&width=311&height=676",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "WOOD"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "BIG TOP HAT"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "5"
+    }
+  ]
+}
