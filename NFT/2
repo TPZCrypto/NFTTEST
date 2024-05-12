@@ -1,0 +1,27 @@
+{
+  "name": "Seed #1",
+  "description": "Just a regular seed.",
+  "image": "https://i.ibb.co/yhN7w0x/Sunflower-Seeds-for-Overall-Well-Being.jpg",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "WOOD"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "BIG TOP HAT"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Item",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seed"
+    }
+  ]
+}
